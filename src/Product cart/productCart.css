@@ -13,6 +13,8 @@ display: flex;
 flex-direction: column;
 align-items: center;
 width: 220px;
+background-color: antiquewhite;
+
 
 
 
@@ -28,4 +30,14 @@ height: 120px;
 }
 .price{
     padding: 0.5rem;
+}
+.discription{
+    padding: 0.4rem;
+}
+button{
+    width: 100%;
+    background-color: black;
+    color: white;
+    border-radius: 0.5rem;
+    height: 1.5rem;
 }
