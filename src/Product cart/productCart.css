@@ -1,0 +1,31 @@
+.root{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title{
+
+    padding: 0.5rem;
+}
+.product{
+display: flex;
+flex-direction: column;
+align-items: center;
+width: 220px;
+
+
+
+
+}
+.img{
+width: 200px;
+height: 120px;
+}
+
+.productName{
+    padding: 0.5rem;
+}
+.price{
+    padding: 0.5rem;
+}

@@ -1,13 +1,18 @@
 
 import './App.css'
+import ProductCart from './Product cart/ProductCart'
 
 function App() {
   
 
-  return <>
+  return <div className='container'>
+<ProductCart/>
+  <ProductCart/>
+  <ProductCart/>
   
-  <div>hi</div>
-  </>
+  </div>
+  
+ 
   
 }
 
